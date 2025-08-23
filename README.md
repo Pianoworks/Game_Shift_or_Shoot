@@ -17,10 +17,7 @@
 - 5点先取したチームが勝利となります。
 
 # 謝辞
-グラフィック
-　Sky Children of the Light: Content Library様
 効果音
-　Sky Children of the Light: Content Library様
 　効果音ラボ様
 タイトルフォント
 　fontopo様
